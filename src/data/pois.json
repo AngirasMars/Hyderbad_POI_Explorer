@@ -1,0 +1,1537 @@
+[
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Dipak Road, 6-3-906, B/C, Yashoda Hospital Rd, Durga Nagar Colony, Somajiguda, Hyderabad, Telangana 500082, India",
+        "geometry": {
+            "location": {
+                "lat": 17.4245489,
+                "lng": 78.45534479999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 17.42593187989272,
+                    "lng": 78.45669302989272
+                },
+                "southwest": {
+                    "lat": 17.42323222010728,
+                    "lng": 78.45399337010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "The Great Indian chai",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2448,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115410812765943195022\">The Great Indian chai</a>"
+                ],
+                "photo_reference": "ATKogpcDflWpSjatRV-V7sCw8g98jgAo1ZBFSalim54xhdd4mvVTHS_PVPO5ND9s-XeV1zk3LDh8zO-0kGMHJgZOQBWKMHjzfkTN5St_eTxDV6D-kRFMNveMqrlKRpuGuOJYID0GWsS31rVwabHSEYFPcLCRAuH9t4UY3YV1S4zUNxNEcetPHfMbrCQBgGUobtF-WTYPk5iLurSy6FzMztDBKe1ax-lUZf2k3Uo2YkxFt9EfjS2bw0caqm2_CN63TyVt_S_0gtkraFo4Hwm8iIkPJuRvTJQwS6cnKZ9OC44gAeqFqkbjAUU",
+                "width": 3264
+            }
+        ],
+        "place_id": "ChIJK1qya26XyzsRmHfd8PIA3xg",
+        "plus_code": {
+            "compound_code": "CFF4+R4 Hyderabad, Telangana, India",
+            "global_code": "7J9WCFF4+R4"
+        },
+        "rating": 4.9,
+        "reference": "ChIJK1qya26XyzsRmHfd8PIA3xg",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 169
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "CGP3+PX8, St Johns Rd, Regimental Bazaar, Shivaji Nagar, Secunderabad, Telangana 500003, India",
+        "geometry": {
+            "location": {
+                "lat": 17.4367841,
+                "lng": 78.5049468
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 17.43816297989272,
+                    "lng": 78.50632442989273
+                },
+                "southwest": {
+                    "lat": 17.43546332010728,
+                    "lng": 78.50362477010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Blue Sea Tea & Snacks",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/104390531432168778547\">thanmai ravulapally</a>"
+                ],
+                "photo_reference": "ATKogpe9aIlcngwOoZaUxyL0_xziNR8wCHG5TiYtM_ZZv4xDZuvxejSNjz8T-y5u75dhDhMwVQphCXgH4T4hXcV7mBmuOQ032Cs9vfjCFu6byxf1-omLKvNY7OC6h3BLD331UmgLrvmw4dlx5QBDLRjqt_ZY6X32AZv2WC7q6kUPx2h34RKKgRVAvWEzrV8zlVHJfubMRo_6boOjkE-Vqi_KwXgIQ7HxWpCfoZTi1yKVtoQkd_6vFlkccgO6po3_8v0I-IVecZR3o-m2eMnhfDLFY8RFrQ3FHESlF6Q0GRwwG4KmeY2GPM4KHT6cU08M9b5DUHiwbd7cJcAFBfYXKvsQEZFKeEhckE33wU1TZ2sVMyjI1KY3Ua4pbTvbFSLhET4vVZ8BXPIuGc6hBD-cmOUkfOv_aNWAA6Y7loRDaEbwngJZGM6IHeyHqYXF-0B_ZW258etpyOYacRoxGOTNdN_aRFzRhj-FPRA9Q9vstspEyQBS9hy8PAurjZhH8cXFV2mVJClwPYQwU4QoVgTcXWWueIGqpjqLsBHQJEENCdl4BSK4K-jR5ndeC_ihfHL-Um2LfDA7dQ",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJR6BsaiSayzsRsSO9VMoYktQ",
+        "price_level": 1,
+        "rating": 4.4,
+        "reference": "ChIJR6BsaiSayzsRsSO9VMoYktQ",
+        "types": [
+            "cafe",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 14912
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Plot No: 1293, Rd Number 63, A, Jubilee Hills, Hyderabad, Telangana 500033, India",
+        "geometry": {
+            "location": {
+                "lat": 17.4278502,
+                "lng": 78.4129311
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 17.42921387989272,
+                    "lng": 78.41426237989272
+                },
+                "southwest": {
+                    "lat": 17.42651422010727,
+                    "lng": 78.41156272010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+        "name": "Chai Pani Cafe",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 864,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/101404454896681104214\">Goutham Gedela</a>"
+                ],
+                "photo_reference": "ATKogpf61L6uPP0s9pqGEF5foNIMMRxWPc47vV56mEMsYWsA_ozswkaQMFI2e8P-kX3vXly4cnuCfCf-3Iy95S1T74C1rHHtZpxyzS4Uh0ljSq1RWvfuEwYlXYAt12qozFfDnhcCaaxigWHk8dE-s3WLpMjGETXT2q_66RKs33p2DsS3sihtT9K_m5gUKSi48NjI-YhpEfXp72cvI74b2QAFfKp6BmVKVGg6A2QhtGU7xXO9PayiZWvwla5W40X4apx-Z1yJCwgu427XM915KTzUQrTJf5IyaGkJySjBOkFZgLsPrgXry2OmOLocQxF7jFVukys1z3pjWkw8STkNC58RnMnJeV3WY5OTXXWUs2LyHv742wTx0oCRVKc-Dadiyf8CCj3pZMbIULdziPjlIzQVV_kvFJa7jnT1kKF6FCbdu4QvbUZZLmg9Q6PnmSQJGAjD4CzoWSXviUmBSYsH8bYY39WMwLj-wSbN-v4BkN-UDZuJ6SJPfLpgRwDeyWmMox7wnKiM0wyQ5I3vv1OG7XJBYeSZQ0fTyhnewU5ByrTFR686ImL1NY5-DUDYemJMwR9QYgieXm_o",
+                "width": 1152
+            }
+        ],
+        "place_id": "ChIJ39A4iTORyzsRRreZRhAX8tM",
+        "plus_code": {
+            "compound_code": "CCH7+45 Hyderabad, Telangana, India",
+            "global_code": "7J9WCCH7+45"
+        },
+        "price_level": 2,
+        "rating": 4.2,
+        "reference": "ChIJ39A4iTORyzsRRreZRhAX8tM",
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1570
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Dentologie Clinic, Lane No. 12, near Omega Hospital, MLA Colony, Banjara Hills, Hyderabad, Telangana 500034, India",
+        "geometry": {
+            "location": {
+                "lat": 17.412201,
+                "lng": 78.42388749999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 17.41357847989272,
+                    "lng": 78.42518647989272
+                },
+                "southwest": {
+                    "lat": 17.41087882010728,
+                    "lng": 78.42248682010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+        "name": "BHAI ki CHAI - MLA Colony Banjara Hills",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3456,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111722133273766267713\">BHAI ki CHAI - MLA Colony Banjara Hills</a>"
+                ],
+                "photo_reference": "ATKogpf5EWppCB7uyvvvOnX-xCxA9tACIXBM1nR3jEMVRCU7o0fthxOvfUJTvpUEpeMyvOfC9a-LG29WeYYMOH20Lf3J-LhBrRbuVegVyMeSLAJ7wr_4pVbSneGO3cOvmxrBewH6-sJXFr-ZQxhSTq6mbtxPUDbfRUkWPcdT1_pftSedmbnZYtstiMZQQT-Q9Un1zQliVVzY_RlkmlT9UepAb3MOLiIHq8h5aY5y1A_G76pFPjb5rm-qoGLU-FAQ9rS6aqdnGT954c8ylt2SSXsgCeXg0gMuwc-jofceMEgyZkhs79NTab0",
+                "width": 5184
+            }
+        ],
+        "place_id": "ChIJ95MS8U6XyzsRZXktW32RLlI",
+        "plus_code": {
+            "compound_code": "CC6F+VH Hyderabad, Telangana, India",
+            "global_code": "7J9WCC6F+VH"
+        },
+        "price_level": 2,
+        "rating": 4.3,
+        "reference": "ChIJ95MS8U6XyzsRZXktW32RLlI",
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 611
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "C/B, V.P 11-5-422, Red Hills Rd, Red Hills, Lakdikapul, Hyderabad, Telangana 500004, India",
+        "geometry": {
+            "location": {
+                "lat": 17.4007435,
+                "lng": 78.4628457
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 17.40207967989272,
+                    "lng": 78.46414047989273
+                },
+                "southwest": {
+                    "lat": 17.39938002010728,
+                    "lng": 78.46144082010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+        "name": "Cafe Niloufer",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2448,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103044628336282700455\">Sindgi Pavan Kumar</a>"
+                ],
+                "photo_reference": "ATKogpeV6iPioV2I92VeTNbvilyFnnaSXI8Pb5QwY32IzFQ-JnopSqxF4_4Zw-7Fwa9Ie7tAfnicyeFAcZa5EaEBNLoZedTApurpk4HuT-QdssyDYgSkLWPUUwGQC5uZp4bpVPEAjpSEyBI5HkXd-JNZTVy6oMVsqATs5lW6AS4qAC3xn_GbH00xQvxMJCfQ-7VYmwn6Kf1QIcNOSh-2ozihb8nuISFBuW4FJ_Nf3poohpB_8cNgD3Yuc2QDpyz260MndCVGhzf2lc6JQLnGWqTV2P115dq9vabjMiCVJ7MC4cRkoSFi9GN0WcAdKMA_U2MW_sqv1zgavW3akYeS2zuA2sK1-r43rsvwJYaIDOg0a8CY6DOZfSP88GLDgTXAxBYz7eRCVTEgZ4jmAa1u5j_NJGYp8W3PYGtN_wMJfU2hTwmUIR5b01jmyd12AxinQ3D6GEYXO6SdQ0zzjNcIFhIlnprOC0OI0LEss3U6xk0ndiVMcDqAOWzN2WXx5Z4VqwaCJJLlCpj9JQJnDMo-024Cr-67t0_iRHIj2Ba9bQZop1YDCcThyu8Wrx0nAFE7sfGPyOQ-263G",
+                "width": 3264
+            }
+        ],
+        "place_id": "ChIJVy0-aGiXyzsRWMiIWZ1fC30",
+        "plus_code": {
+            "compound_code": "CF27+74 Hyderabad, Telangana, India",
+            "global_code": "7J9WCF27+74"
+        },
+        "price_level": 2,
+        "rating": 4.4,
+        "reference": "ChIJVy0-aGiXyzsRWMiIWZ1fC30",
+        "types": [
+            "cafe",
+            "bakery",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 24535
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "6-3-788/26, Big Bazaar Rd, opposite Ameerpet, Punjagutta Officers Colony, Punjagutta, Hyderabad, Telangana 500016, India",
+        "geometry": {
+            "location": {
+                "lat": 17.4311163,
+                "lng": 78.44926
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 17.43249012989272,
+                    "lng": 78.45057422989272
+                },
+                "southwest": {
+                    "lat": 17.42979047010727,
+                    "lng": 78.44787457010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+        "name": "CHAI PRADESH - PANJAGUTTA",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4624,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103060236811391524592\">CHAI PRADESH - PANJAGUTTA</a>"
+                ],
+                "photo_reference": "ATKogpc_N5EoQbMtzq0diMDkJ8JHrNBVEZAMh_Bdreh4AWN9foZRPdzMTd-8C5oVCOkP0gVwfEFH5ueHSC8_SiDgFRLnmpADohtHwUTeZPPwVDswWYxmmSnaFJjvN8bB5OVtbGMjuZKvTtckQdrCev1fuoP0rL4bHVpTTfXdNhmPf6K6Y6YuDsotF4sn76-eMeGlkC-fcJ-73hVmuPTiJFN6BgndRRfD1VwHFy1kx8ha5YACTshqSaUBiIxS0c2KnsYkt2PHCc6C5IGEWVi9pRNkQJpLaNo76pqA7heFecsUI7N0h5PABqI",
+                "width": 3468
+            }
+        ],
+        "place_id": "ChIJsyR4_CubyzsRN0Cg4kzUSXA",
+        "plus_code": {
+            "compound_code": "CCJX+CP Hyderabad, Telangana, India",
+            "global_code": "7J9WCCJX+CP"
+        },
+        "rating": 4.8,
+        "reference": "ChIJsyR4_CubyzsRN0Cg4kzUSXA",
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 71
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Shyamlal Buildings, near by Ganesh Temple, Begumpet, Hyderabad, Telangana 500019, India",
+        "geometry": {
+            "location": {
+                "lat": 17.4459144,
+                "lng": 78.46173929999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 17.44727957989273,
+                    "lng": 78.46306397989272
+                },
+                "southwest": {
+                    "lat": 17.44457992010728,
+                    "lng": 78.46036432010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "CHAI LIJE",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/106301106603621886345\">CHAI LIJE</a>"
+                ],
+                "photo_reference": "ATKogpc-dfFRw4vwDpwTjCfV5fgU6fuYnlnLiPbIzZFZDSWxKhZPLbnCKUlWVzEqQVm9MMQevmcEo5eHxX-PurKi9BH6qc5-UcYEjmbN1GXf0UtZjton9L7YNzDzuLdAQzdhax6MJz1Ig0ucVO-peHrH_lRGt_oIIzpu62d3hVPR5vCHb8Hug3wVzYdui95M9U7gR4ZyX8CMRlPDlor1YWYJLHbO1DBgBs_y8XXXTodggTp_ZQ6D1N13veWP2rEmmbpO0h2wEbgvCROd6Aic_m8LNndvvip-iZSd__-iHvZml6A8ObR_TYM",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJCyS29-aRyzsRyqWJro9HynM",
+        "plus_code": {
+            "compound_code": "CFW6+9M Hyderabad, Telangana, India",
+            "global_code": "7J9WCFW6+9M"
+        },
+        "rating": 4.9,
+        "reference": "ChIJCyS29-aRyzsRyqWJro9HynM",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 174
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Under Foot over bridge, Inorbit Mall Rd, Vittal Rao Nagar, Madhapur, Hyderabad, Telangana 500081, India",
+        "geometry": {
+            "location": {
+                "lat": 17.4338125,
+                "lng": 78.38493749999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 17.43515892989273,
+                    "lng": 78.38628427989273
+                },
+                "southwest": {
+                    "lat": 17.43245927010728,
+                    "lng": 78.38358462010729
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Hyderabadi Chai Adda",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3120,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/104725061438541970222\">Tejas Joshi</a>"
+                ],
+                "photo_reference": "ATKogpd1S1mjCWawNZBgFdfvtlcf8HCu3P13bySA9C-bUqo_NP1AmuLuqKcr8Jq6fFqvrr1G642jk4LnwQaQTxbZ4ZpJxO73nJcEMOIZSArgF16jTlf0IAo4Xb3hlApP2d-L5dJPpn8sbhX0GH6au6AoLJGKM5WiwWzmf72Y8nJ7IeOusc6UW96ROPf5gtZn3rLPNT0vIXfiqXjt7NeKTcKi-fUBNBUCK9J_myPm0WCDUvgzG4v1mD0Udgqs1XoRRdh0mXzQMMMz-efAIE5V1XnMnkwiW04ty2XBJg7KPNpPnoQSu7znloPItg4EJmVijyHQrV5VWJFr80SIY0Jszbt1RP20efMKA6GGWRzE-5U22MMzb1WwyoMhgEJ6i-xwzcTj2Dyo4fquSP-Ofg7E9w-0NxmSs-iYu_4-LFRMO_VbsiSnqqzvNJBmz1heLgD73EkWqagqOuBhWW72Qv9hnFxp_-cl4BwDjhfqaK-ymJdCK0_3yoZrCi_dJddMBoPpnJFu1fGSp2BFZYZKMQcembBgL7Rxs3SoRxIfmv2CDaNeLPj9S0sqhiu7d76OkfvtqrWfX0OsKoac9X1rtA",
+                "width": 4160
+            }
+        ],
+        "place_id": "ChIJd2jOAliRyzsRas6ygI2dtG4",
+        "plus_code": {
+            "compound_code": "C9MM+GX Hyderabad, Telangana, India",
+            "global_code": "7J9WC9MM+GX"
+        },
+        "price_level": 2,
+        "rating": 4.1,
+        "reference": "ChIJd2jOAliRyzsRas6ygI2dtG4",
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1269
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Chaitanyapuri, New Maruti Nagar, Hyderabad, Telangana 500060, India",
+        "geometry": {
+            "location": {
+                "lat": 17.3699451,
+                "lng": 78.5319245
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 17.37129387989272,
+                    "lng": 78.53327937989272
+                },
+                "southwest": {
+                    "lat": 17.36859422010728,
+                    "lng": 78.53057972010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Chai wala",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114630026827464320244\">Surya Rathod</a>"
+                ],
+                "photo_reference": "ATKogpdHJ6WqX9wWRBN9FCZMAlkYT1HmYRR4iEKmYgsrdEi-tPybpI-rhVvQg-gNmLV0OIqzPtcEyTuXB7zH-r9nuKpo019334v0ITZIoo4wRL7HrvY7DQPlfIC16bz8GBHsUxZN-0O7We3wgQ4btECQVBaX88sPNgR1kuCbEgGU5G-sVW_O3-RKCTjp0yxuqvhKpSYe7fLC6wm-2ib9-Ku_9oKW8m_j_1fWyOWh8SA7PRg7GZR0Ww4D1Pi6qgeKHjrTpW2blNw1piA1_A670YYsQeCUc3fORhjf3FE_1NR8zckppHKBMd0L6hJB3aVyolEcLBvIm7ffnvNl8mACpBLTZBAj6zejDvqglhJMn3YG9NHmkTlfyJ1HxFh6KfKxjQ7v2H-0COrK7nMjFZCS5nmpdzUXMK1m5Jtsi1YU0k1ayE9lso1y_YTbE5HLOin2O80n70ALP6_TyAflfVtT8yWLwIGEPeA9Zt52STUxKdSTjcARi3ywjoJ2s0w8_sUtMZPf9wL3jnEWTRwi5OdZItLHeqfX079SciYYnId9cxWzEvuT2Yc6xu1rkfLcddngTzQ7yWNt_6hr",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJKwtVyiqZyzsRLH678mKGCNg",
+        "plus_code": {
+            "compound_code": "9G9J+XQ Hyderabad, Telangana, India",
+            "global_code": "7J9W9G9J+XQ"
+        },
+        "price_level": 1,
+        "rating": 4.8,
+        "reference": "ChIJKwtVyiqZyzsRLH678mKGCNg",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 371
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "5-1-506, Maharani Jhansi Rd, Wakil Wadi, Jam Bagh, Hyderabad, Telangana 500095, India",
+        "geometry": {
+            "location": {
+                "lat": 17.3820028,
+                "lng": 78.48140459999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 17.38328742989272,
+                    "lng": 78.48283052989272
+                },
+                "southwest": {
+                    "lat": 17.38058777010728,
+                    "lng": 78.48013087010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Irani chai wala",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115703974723661798704\">Younus Shaik</a>"
+                ],
+                "photo_reference": "ATKogpeWZMQwuk0dxW7o4lTChL2VoF-BcrwxcBbFuwF23u6HzHBhQHDVjNCn12GjQsYYnwDxgFxRi83_ogh8Deyq11WxHdZSHmmJMg9KnAsN-8TcrO14i9d7ceAKF3CRYjjVqIZ4p9g44Lm3chyPDpsQ2IFL41ilFrlGRr6vLaotNWJjxHO3xYcnVEK7HTfmKe9Qiu38K9GHuPsasDZ2pYdpJaHDCzM2tFNhgvvftU-w_0YlRdmqGv21Nhvi_sLAf4wmmKFho3yAWV08o3cey6QMjNDAt9vNJndJN-NDLci4Pl5-hpBTpkak0qwUuSA_TN9fNx-7hEjHwnxO8H7NG0o0iCF8jMr3cpNoPfsy-ruGn7qe76LlGlZIvSLsVeHstO0bWdWJIpB5K7kfW6tdBIdAN8b4dhFyXhI3C0gJrfxUG_927cp8owC90PyPFNqsupoYN5nh3Rpmqg0vlqJ7EzXu3uhWx7bNsXbSf56SDd_0tUKCSfdT7QZBPJ-cJ02y8O9Zd9u3vkKiI1PR89aOoWGZNiXgSQwUHbiqJiD2AvYffI9LsfjyqRs6jVYESQf9sOVsSCDwo3mo",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJVaycXwSZyzsRsj4T2QRVvxo",
+        "plus_code": {
+            "compound_code": "9FJJ+RH Hyderabad, Telangana, India",
+            "global_code": "7J9W9FJJ+RH"
+        },
+        "rating": 4.3,
+        "reference": "ChIJVaycXwSZyzsRsj4T2QRVvxo",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 435
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Pillar No. 1200, Ground Floor, The Cent hotel, 6-1-1063/COpp toRR district, Lakdikapul, Hyderabad, Telangana 500004, India",
+        "geometry": {
+            "location": {
+                "lat": 17.406233,
+                "lng": 78.4631132
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 17.40755422989272,
+                    "lng": 78.46442772989272
+                },
+                "southwest": {
+                    "lat": 17.40485457010728,
+                    "lng": 78.46172807010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+        "name": "CHAI NAGRI LAKDIKAPUL, HYDERABAD",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4096,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/118360862017002241033\">manmohan sharma</a>"
+                ],
+                "photo_reference": "ATKogpfqKTDgs6Jw89h5JMwgwgi6_IFhkAWN7noVh25ox5dkyGpFgVkSqjWUUQZOeHg4emOIT_kNEv-GeKtyJxXrN6KULUBmA7wHeBqWLiGiclz0vXyukdOPz87_YITvcik4gHG7AtoAgeFarJixYdA_5BnbWLM9fAv5gpG9lIFV5Gy5h9nggmZAd9uLd9exVr6V-6zlqGL2JzAEMQlDAmVlR8rjeTylNaK639OTTn4u_2Q_hiiZ2LOGyC8rB4b0GisTk9dXC69jw8Ilo75teQJU8fH5rpCtmeqBHvOQvLoVdAbdBjh6NxQNxlbebih1n0oHc9z7Y0VEmbkILjTxx9tjllwcR_YR4PQtpQjFmvLSeeyULDWZypKs2ieTy_0JzEJpm9pS9insv-PgW8zn1zuoQsLwwBguy3lqOuIKLwASikumk9K82OS0U9jQN4i9cxzyc8saUh05azJHbeabOnlN9191feBmyLCSmT-vLcw_4AIwT_Dt0Ht6ceH0mJcZ1OHDbsGVfPZROZ3YAmhWmn_TvtbeDdLuTrZu4KQgPp4rNevQLJOmkDnoO6Mi0EKKIGZOJXQ3cjCFxFtUMw",
+                "width": 3072
+            }
+        ],
+        "place_id": "ChIJaVEYmeGXyzsR8HrfjB59eR0",
+        "plus_code": {
+            "compound_code": "CF47+F6 Hyderabad, Telangana, India",
+            "global_code": "7J9WCF47+F6"
+        },
+        "rating": 4.6,
+        "reference": "ChIJaVEYmeGXyzsR8HrfjB59eR0",
+        "types": [
+            "cafe",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 99
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Lane in between of Hafele Design Studio and young wood furniture world Banjara Hills Rd no. 12, Fortune Enclave Rd, Fortune Enclave, Sri Ram Nagar Colony, Banjara Hills, Hyderabad, Telangana 500034, India",
+        "geometry": {
+            "location": {
+                "lat": 17.4080761,
+                "lng": 78.44091809999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 17.40942117989272,
+                    "lng": 78.44224487989271
+                },
+                "southwest": {
+                    "lat": 17.40672152010728,
+                    "lng": 78.43954522010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+        "name": "BHAI ki CHAI - Road No: 12 Banjara Hills",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115456674788909736708\">Naren Chandra</a>"
+                ],
+                "photo_reference": "ATKogpf0mB7xU8ioGjFvtg_FdUAz1JCkj3nNj5Nkt0-AtcQOX_5UjeFmCQw-L9ipFBjmqpywIUyxC7vabf9IrCOsIgawatTHmu8sFRQptUfpQw4E_NIlQkYP_orrbGXi7QUSKdRGpOTkhs-drRjVOUcwakiGJgDblQ7X5iAPuBcYchp_elTMYOJF_XGez0gO1Z00AJT-tKOqubZbXvsU2a_5vdkqBDnVuyGI__3qtNf2zPG9Y2Znr42jA7wGHlaGo-JT30ZU9ycoD1lKjXLvYDN4uHMwkEXZJS4o-CYHQb_9TD9wy-KnBf10IZJ1dJAADk3KQRt8NPDUw_uUiHEm67YaIrfkc1mcVcnUwdmgvNuh9V7IkuCGL8FrITfYZSIWxplE2WHoCimP_mYY9UFRpZ-fXwu1SE7cNvcb2FG7c0XWl0eUaoFRKCCOBxxkPJlFwbMn3bZ3zecoqAezvCrdNBPTVeesWidsGlmfv5qQosV_ANS1t7T4A0fwJ-L7C1_4GIiU_Tkiwm2Co6m4DO8zOijmF-whYH9Gt56_bLMRjxvEmjP57f7GI5SBo0xrJLEhHqiAg87XvBxO",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJ4aWeG_yXyzsR_LrPmF7OUHI",
+        "plus_code": {
+            "compound_code": "CC5R+69 Hyderabad, Telangana, India",
+            "global_code": "7J9WCC5R+69"
+        },
+        "rating": 4.1,
+        "reference": "ChIJ4aWeG_yXyzsR_LrPmF7OUHI",
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 306
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Shop No: 4, Sri Ram Nagar Colony, Chanda Nagar, Hyderabad, Telangana 500050, India",
+        "geometry": {
+            "location": {
+                "lat": 17.4953395,
+                "lng": 78.3315894
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 17.49668367989272,
+                    "lng": 78.33286417989272
+                },
+                "southwest": {
+                    "lat": 17.49398402010728,
+                    "lng": 78.33016452010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name": "The Chai Maharaja's",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 796,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/113891491302181505123\">The Chai Maharaja&#39;s</a>"
+                ],
+                "photo_reference": "ATKogpfYoyBYAofoWQq9yiXs7lr8kcK-u3MR7Y7um1wRXia-0z-9P40yiHH7vnkqPBYI3MLdbqKkG4_XtgFVbvCX0z71Cf09-2zzT16rTzNRkxPK9i2q_1wW97-SRzlUGExQW02igP4qa1eabf8tckwnoxs4NdyCnE-LGRHPCMEpzz7BIeqwHQdk8HE1dXIVYN5UT-X5QR2UBmcdG2mC5Lk8s-9LkKjgqbIvSwlw0x0WHt9JEGwtHooSOnLvVQGc5pM0VFmwhViLWdaJOmSOeZWWK9gGnkUJINu9C-R60cf-BCZ-KrLF8OU",
+                "width": 973
+            }
+        ],
+        "place_id": "ChIJe1UCopGTyzsRNfoi2VkcVL0",
+        "plus_code": {
+            "compound_code": "F8WJ+4J Hyderabad, Telangana, India",
+            "global_code": "7J9WF8WJ+4J"
+        },
+        "rating": 4.9,
+        "reference": "ChIJe1UCopGTyzsRNfoi2VkcVL0",
+        "types": [
+            "cafe",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 112
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Shop no 17, 83/2c UGF, opposite Annapurna Kalyana Mandapam Lane, Srinagar Colony, Kamala Nagar, Dilsukhnagar, Hyderabad, Telangana 500035, India",
+        "geometry": {
+            "location": {
+                "lat": 17.3674612,
+                "lng": 78.52873509999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 17.36881202989272,
+                    "lng": 78.53009307989272
+                },
+                "southwest": {
+                    "lat": 17.36611237010728,
+                    "lng": 78.52739342010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+        "name": "CHAI VAAI CAFE HYDERABAD",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4608,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103075365219477771409\">K Rahul</a>"
+                ],
+                "photo_reference": "ATKogpeY7tATsgXnAler6UaLAu1KjAyRkcMras5JqSpnVGxVy6aJRit2kFEuPWZlWTNW9Lsm7ItobXHM-Rkvy2ndUqbmVMXF6Z8biKhVCgbnSRE-A62P94bcDVO_7uQm516X2qVO0QgzgtsXkQnbvJjPk-l0ge9ocZjrBTPqWkhs9_S40V-FI2HUARm8i9gpuqqeqPGRyDUOE-qSvhofHrnHZglS1DI2uRgZRm3qu6hb66EGAuMGW_6yEfjPEcq-_rgcnKUnBgHNbMFrSZTOjjyTBGpNWwfEqzkqPIFhKeKdkvrfp2f3j_dJrUb61hHprJPpsK-tsfKyq-pNLRfZBSub6-Hh29SpzpgfuOYxkZkMSY9Xe9dhQ323ODd5cbbP2m7jg0sCF0YeORxiGQ_XaeRMGJcfvJdPC8A1KN74pR0lsxo6zyeHGcOHmu3gJw0QzGfCNhGrNM_aZZkTSer5umai6HilUegOEXNU0ev_iFf7RsRFj_MAJhcuo-9X5KYqtfy9tUYnNdA4EBu-6lum_2bb5dycn5jqMOT29I1EMQbUnHNjPBx7ed0ms3xyecLsBa_1HtXPOg",
+                "width": 3456
+            }
+        ],
+        "place_id": "ChIJ1fNziPWZyzsRsuHIEqxCI8k",
+        "plus_code": {
+            "compound_code": "9G8H+XF Hyderabad, Telangana, India",
+            "global_code": "7J9W9G8H+XF"
+        },
+        "rating": 4.5,
+        "reference": "ChIJ1fNziPWZyzsRsuHIEqxCI8k",
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 144
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "SRT-228, RTC Cross Road, Indira Park Rd, Jawahar Nagar, Hyderabad, Telangana 500020, India",
+        "geometry": {
+            "location": {
+                "lat": 17.4081048,
+                "lng": 78.49313149999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 17.40942227989272,
+                    "lng": 78.49446947989271
+                },
+                "southwest": {
+                    "lat": 17.40672262010728,
+                    "lng": 78.49176982010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+        "name": "CHAI JOY Cafe - RTC X Roads | Tea, Snacks, Lassi's and Shakes",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1080,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111194004838999358352\">CHAI JOY Cafe - RTC X Roads | Tea, Snacks, Lassi&#39;s and Shakes</a>"
+                ],
+                "photo_reference": "ATKogpeYVT37wVk0hdKww8df_Kmrsafdkxmk4RoUEfwuiZIDRVqDgfxpCvnMDsFzpYmxid5N2IW6Qp2oQI5_jFSn3qQUwkl6sUlJveVfE7wO-hKtm7WaGKyMW-e0B0G13RaYqj_lfN-Wyj46B6IR6cLFFDQiwZMjtrFep7VIY2hH9J3Y197v01eHid4zmImw9gyeVnyue64n6rtxXX-dvCyJpU_oVacOWV7SlqskAEzDaDnRpGFnss72EFO7Tml-LgCGzDO8T2B9Qg4ljbbWFrj62tDADkX2aM9VHhfLdf5RHNKAGcw_yKI",
+                "width": 1080
+            }
+        ],
+        "place_id": "ChIJu0o88l2ZyzsRbpi7ejGO9BE",
+        "plus_code": {
+            "compound_code": "CF5V+67 Hyderabad, Telangana, India",
+            "global_code": "7J9WCF5V+67"
+        },
+        "rating": 4.8,
+        "reference": "ChIJu0o88l2ZyzsRbpi7ejGO9BE",
+        "types": [
+            "cafe",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 119
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Narayanguda Flyover, opposite to Brilliant High school, Chitrapuri Colony, Bagh Lingampalli, Narayanguda, Hyderabad, Telangana 500027, India",
+        "geometry": {
+            "location": {
+                "lat": 17.3967982,
+                "lng": 78.49594359999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 17.39814897989272,
+                    "lng": 78.49729412989271
+                },
+                "southwest": {
+                    "lat": 17.39544932010728,
+                    "lng": 78.49459447010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name": "D Chai N Chats",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3468,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111749695451993807226\">D Chai N Chats</a>"
+                ],
+                "photo_reference": "ATKogpdQfKAbgoHv6TAdeni2NyX8VJW6PMIq_4zV267lGCKDmRGYErgpl83ABCyGtW0EC2lRvC4zQ3qgJljq7p2VhurCwvw-To4hPWhB1D9Z3PlcLBZUXx1rRk2xv8XlK3jlXcvTOJzeeG3-aFOjN8Ukf_7N30nHxDhnM5GFQ_g4ZOmx_YR_uE-UIL7M_gB26i2tXrkplohTDQ659vL3dP7zLeJ2zeCE7LMgvYbotH3Xz0s5aeioi62WOjkx_0B0aHLKddRyo5p2uZ8ZIAtrHEaAKrraH8C9xGggcVDYusn6r_MHLZfWPCc",
+                "width": 4624
+            }
+        ],
+        "place_id": "ChIJb4NYWgCZyzsRYi0q6ITDrjE",
+        "plus_code": {
+            "compound_code": "9FWW+P9 Hyderabad, Telangana, India",
+            "global_code": "7J9W9FWW+P9"
+        },
+        "rating": 4.9,
+        "reference": "ChIJb4NYWgCZyzsRYi0q6ITDrjE",
+        "types": [
+            "cafe",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 17
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Srinidhi pg, 3, DLF Rd, APHB Colony, Jayabheri Enclave, Gachibowli, Hyderabad, Telangana 500032, India",
+        "geometry": {
+            "location": {
+                "lat": 17.4487767,
+                "lng": 78.35742719999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 17.45009392989272,
+                    "lng": 78.35877727989272
+                },
+                "southwest": {
+                    "lat": 17.44739427010728,
+                    "lng": 78.35607762010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+        "name": "BANDI KA CHAI",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 5712,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/117717395531505414734\">Gopi Nallaiyan</a>"
+                ],
+                "photo_reference": "ATKogpdO243rtIgWUyW9R8ukTqXAT6Hmsvx0SJuMPRiJgl2ADhOZ0kvuwV1EuTivmcxcTGwNEwed0aff7OrZvWojlbt_-mzqMB4XBY_-VPFWF7Kx7ltcx1fpN3X3-ePPI3Y7SxP7Niquo_aSaKf5aMnIKlA3qHnd5uMrAO9DdEK3MVz9f7gEF3JNGoNQRUNr0owIkayDNf9RTcSPdW8kN76atwiucX9ujKChCXUplb4mcig6LdnVZKxxzEqMrajqz4q77n6TC2nz-1VdakX32SSXx6fjp9lQkDcVUvAZqB8Bgezq4SUrTCZ5_4Bd07EB-N1imZwDp7lqhBLahCveiKuOpVhO6fzRqJ0CypeeQ5dncFlCoUPcN1DtAJ4wI_riWXuBNoP5lfDtIieUmzAEF_RVFUe198U_BA1N65yXKTOS9SWnuEUo6_wiF0oKQDiYpAiUBhDOTHTCSk1yee6Kw4eulrIdsrhy_mAAPIkfwOXRQicqQJ0E9UO2VP4z6tsrNDzPRwUouSK00OhNJXnf329dOjh18UobvEVTRLXU-tNbieisuqTx1-nF6pQCeRFpYX7f4ZPvDDkFxpSsgSbi-vWPDHAdRC3VEQ",
+                "width": 4284
+            }
+        ],
+        "place_id": "ChIJ374XVzaTyzsR1KymDR9FbU0",
+        "plus_code": {
+            "compound_code": "C9X4+GX Hyderabad, Telangana, India",
+            "global_code": "7J9WC9X4+GX"
+        },
+        "rating": 4.2,
+        "reference": "ChIJ374XVzaTyzsR1KymDR9FbU0",
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 163
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "CCM9+VQQ, ICRISAT Colony, Jubilee Hills, Hyderabad, Telangana 500045, India",
+        "geometry": {
+            "location": {
+                "lat": 17.4347142,
+                "lng": 78.4194917
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 17.43599787989272,
+                    "lng": 78.42082227989273
+                },
+                "southwest": {
+                    "lat": 17.43329822010728,
+                    "lng": 78.41812262010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+        "name": "Bhai Ka Chai",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100033011182825208975\">Shaik Mujahid Ali</a>"
+                ],
+                "photo_reference": "ATKogperYelaCd0MJUgVNUf6CdlQ_vBfFqep6VlhYkxlL6-bUAlIOEcSdSfrLO_HDQlJOXLEpSEpjT4b9U-3YayVoD5i1DQN7ioJkwLhkDgSzliCor-Jwr05qT433zSLSNz7vM48nboHmvUEES9CIpDqa5kvbqg5YQI4DnW7pa7r_cU3H_pz4pjgwWo7h4hAc8bDn-MsKZYmhbRlBvWEOJQasuLwObAzPZ4e6xLaEBWXwfZl7V1FxkkvPWqeY0OJSBy__UgiisYYK4ZkZaU7G9q1wsPIJUXB4n994bPnDGnm0vDJFbZE8_TrfE7BtTXTSl78zPuE2_8KCQXNVsbfWaUNv3R2Wu-nl9j6pcjWq5pvZ5Vo1lO4qBHZ--a4as7MXrFFHj_WrKdZmIOWMf3e_0BfN_zvlr05U_TPNXYkUYwhiuZ_Y31VeI-kQ9VYjvD8z5bRDtUJpC9OJ_L5jQoJtndK9pm9ja4VUkzFK_3z-U8XLaLcBjBETFJHKaVM11uwXPeKo00cLaPtt4PnXP9xbuht4MkvJpvcoLfUF8mMgQNv_Ecz7dGTx27Hn3kHdZvY2AyhfO__MR7T_pvBrw",
+                "width": 2250
+            }
+        ],
+        "place_id": "ChIJK5po2SaRyzsRJYAxI23ErAA",
+        "rating": 4.3,
+        "reference": "ChIJK5po2SaRyzsRJYAxI23ErAA",
+        "types": [
+            "cafe",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 226
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "near amazzon liquor shop, opposite lenskart.com, AP State Housing Board, Himayatnagar, Hyderabad, Telangana 500029, India",
+        "geometry": {
+            "location": {
+                "lat": 17.4006912,
+                "lng": 78.487093
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 17.40209252989272,
+                    "lng": 78.48846152989272
+                },
+                "southwest": {
+                    "lat": 17.39939287010728,
+                    "lng": 78.48576187010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+        "name": "Chai Milan",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 5712,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/106836880345731198301\">Siva icon</a>"
+                ],
+                "photo_reference": "ATKogpdSaXZSOQwyGQ1xVAmqoxnf0LSxgEb8-bFL2G5FCAqP2DEbM4aZFbHdJ6bPrIcyAXfOwvlpA1zpLkmPXgzrGHFGERKnQdCoPXDVfWDHziFVuorr0ie2PBci37ROpIuzuL4UbWv8bQJiVHWNd-D3mQBlMimCIN7jRfU0oMbWb1Bb6DTxomYSgDsMamVwXSLv4mUbt5QuGN5W-C13n3NnGZVYUJqdst-kN7nW9PhJQ5YSg3G134JeBWHUqsv3Os0dQ9wVlGnNwz_kk5leyzsUumxcf0Zv6n5LKrP62jLrkOkEqyZMuQf-nvvwmHN2cnVgQkHCpAbinBxwNEUmWUZWFXpFJye8aDWEwvL2vTnUFwrC6Cml33qCXcDSgciggrrV3XvxYC65yMIpKoCRedY_cjRYbzcDkhHyHmijHNTyiXJPjltj7xKu-CWQdM6XgvWtFkYraJxTvUJtmaPp-N4HhjmdRBzJXNY3irmT5giZwtQBT-Wku6uZWh22k7494bvTn3X7tkQHxtkHm3PtK74NLqoZJSfzpONIL5sIUPGj8e7Joo78oUvZ1HK9BrNx1W4YdO9wzpadbsRljg",
+                "width": 4284
+            }
+        ],
+        "place_id": "ChIJS_fPUp-ZyzsRAGzPD8Q7FCs",
+        "plus_code": {
+            "compound_code": "CF2P+7R Hyderabad, Telangana, India",
+            "global_code": "7J9WCF2P+7R"
+        },
+        "rating": 4.3,
+        "reference": "ChIJS_fPUp-ZyzsRAGzPD8Q7FCs",
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 189
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Street Number 4, opp. bawarchi restaurant, RTC Cross Road, Hyderabad, Telangana 500020, India",
+        "geometry": {
+            "location": {
+                "lat": 17.4064756,
+                "lng": 78.4981174
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 17.40778542989272,
+                    "lng": 78.49945037989272
+                },
+                "southwest": {
+                    "lat": 17.40508577010728,
+                    "lng": 78.49675072010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+        "name": "Café Irani Chai",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115703974723661798704\">Younus Shaik</a>"
+                ],
+                "photo_reference": "ATKogpdzKiPGgmQOnevnRZZUUmn5XkK06W9xMr2HnusHdpTartNuu6rwGFlYwk3wZWGl9zq0JsuYnzKbwi5kZV00eBBoUo4sry-SgzKVlJJaTy6-8oG57PT5Tf2dPLBUulFy2xkuXsrwQh0lwFr38Z67GNDiyEI4I6d4NuyVRrm-Pz7k_Ko3681ak57_20YmOS9dUaN-EukIkVUT_HU0Upj3wBtLQ1iv9NUBIVe0yT57COC0dc490GukROc1PM50vnlXbS_hLIGmLs4yRRQcGdiW7uL74RnL4pbC7tA7LQ9N6MbfhIeDXi0DbGMZSFRikBhaUudOjkBjRn_D7TdfN4URPSTf6jemJRcqVT52bAk4tnrxPEOmqAvBp16mUSem9dCQQY1qMScGjaGZrTPuhZTQLZPZu8wO61651bmNMF11eHN_1Zbuc9b0BRTXDmo2_LQTZUAppyRiQEhyF709_0FNNg2T8uIsrhxt-f8Kiw_TpzFJYcBgHU_su1aErHkLAsPDTfM4bAQbK0nZJj2-Q8PQu3b7kDBeLDpMqXCBjTsZHmtzn_XnZ1vwYsT47mcM1vkBzh3GGYPR",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJrSH3epuZyzsRxyh_WfiX93Y",
+        "plus_code": {
+            "compound_code": "CF4X+H6 Hyderabad, Telangana, India",
+            "global_code": "7J9WCF4X+H6"
+        },
+        "rating": 4.2,
+        "reference": "ChIJrSH3epuZyzsRxyh_WfiX93Y",
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 71
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Chailovers, Babukhan Ln, Hyderabad, Telangana 500081, India",
+        "geometry": {
+            "location": {
+                "lat": 17.4386992,
+                "lng": 78.36642499999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 17.44005687989272,
+                    "lng": 78.36775597989272
+                },
+                "southwest": {
+                    "lat": 17.43735722010728,
+                    "lng": 78.36505632010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+        "name": "Chailovers",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 8192,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115894831145235683055\">Sumit Patel</a>"
+                ],
+                "photo_reference": "ATKogpfSubek9JORHEX5SnFjuJ-aVsoBSQwY9G2uZ-kX5qyt-IruIGPMY5kQHW5Ecakf0Q1hh2hIhapTO3fdOSoiiHXGcgELRvpYFixibL6jei-IzvG4lRQge-MPbPJvYkn3tt4jrcylBvQfMZNShsu60NZGUTgYLaB1KBrSnu3HwHuqgiXm8ybxj8fXlinxcfc-vpZBmTlaXQz6jTUz9gLxm4NfN9lDJ9hWa1q_mPoe2H32hY8eW8p1O2Rp4ou-iqavHj4sQHIExLnrtnswvWKGzgDngBmjjn_KUN8EyVtXWcun9bEiPVs2Lk33P82mlTzmJyWO2-uHZbHWtJrcSjhDyEAANOhsCWCGkmlCjqnl3HRhKA3HUOjoyEPvTitZYwMnkPo0WeiLlKL-u4ZAuiTGBAQm5k8AZK-zJXZWNUtPeyxbHdH_8JjmbQrSbCfzMGh2f_3KVcYMVvHWdB1iXqOcKMZ2hjPmp4RadcETBCjMffqoun0OpBD1Yrkvpcgwr8V-Kl7LQ5NHKeoLTNAybUzG4VunHXDsBoe7owIug9hK3InA0ue14e1FV96jkHq6p6F_SFYHc24-",
+                "width": 6144
+            }
+        ],
+        "place_id": "ChIJnbOkiL6TyzsRASaiDp5VYOc",
+        "plus_code": {
+            "compound_code": "C9Q8+FH Hyderabad, Telangana, India",
+            "global_code": "7J9WC9Q8+FH"
+        },
+        "rating": 4.9,
+        "reference": "ChIJnbOkiL6TyzsRASaiDp5VYOc",
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 27
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Kumar Wadi Rd, Zohra Bee Colony, Edi Bazaar, Hyderabad, Telangana 500023, India",
+        "geometry": {
+            "location": {
+                "lat": 17.3507133,
+                "lng": 78.49317769999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 17.35205412989272,
+                    "lng": 78.49452722989273
+                },
+                "southwest": {
+                    "lat": 17.34935447010728,
+                    "lng": 78.49182757010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+        "name": "Chai Chopal",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 8160,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/117549277397289371410\">legend Kareem</a>"
+                ],
+                "photo_reference": "ATKogpc0cVDnj_vHK23hHlY7OWcCmSA4wmMzyyVf__xWnSVTrBg4i77H3XWKFrxrvOsHK8uwv2RfOZchRnPmNNKihzxFfy6W7MxNYplVQuSrwz7KfmZij7YClGocDjyf-7_3I3NAvfA-q_T1iBkZHZJ_G5LYgBYecNubXBRCDdFRKj7RPvDYTfOg6XienCo691U-Y_i2ktaemGOojJ9hyZZCFWVr0Oljp3UFV_ofwP5omMZiqOTB_sXgBsFR8cRzVhdekG46Xc4MBRmWS-4OBiaOadLLrrrcdztapyEOqRSaZviPWjI_xZoprmHSIZPSlSXsXOuekgZb-H9WQj_vNBooqaBWONZo5MgxgrvkKpPNpSnrdF54oU--pY27WhzNe_pKaJxe_ulUBiOmQsJAUUagxNeFReYHs8udf9GbyPCJnUDn7Lu35xXuP71VGItZMhv_Z8KvJX8mUqSTvfTh2SSSTRWJbXslGRcWhuTC4Pta4mwbFpisZVRqQPj7QPdG8KsR2yE0cKQaoS4aYabekG1f7Hq-UnhVaV8tYZNzZRTgHlEc43Gp_2JXjPcYZ1btU4ASUlhbNfzUBt6qIQ",
+                "width": 6120
+            }
+        ],
+        "place_id": "ChIJ1YhjClWZyzsRhkJ82LiiWuM",
+        "plus_code": {
+            "compound_code": "9F2V+87 Hyderabad, Telangana, India",
+            "global_code": "7J9W9F2V+87"
+        },
+        "price_level": 1,
+        "rating": 4.3,
+        "reference": "ChIJ1YhjClWZyzsRhkJ82LiiWuM",
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 458
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "CG48+644, Osmania University Rd, Vidya Nagar, Adikmet, Hyderabad, Telangana 500044, India",
+        "geometry": {
+            "location": {
+                "lat": 17.4055136,
+                "lng": 78.5153335
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 17.40679232989272,
+                    "lng": 78.51670267989272
+                },
+                "southwest": {
+                    "lat": 17.40409267010727,
+                    "lng": 78.51400302010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+        "name": "Chai Lije",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112950467605951659678\">Kamaraj Korlepara</a>"
+                ],
+                "photo_reference": "ATKogpfIaWcR1h2YFo0icdJYct7DDQsAS5cYd5CWMOeThCz378r5VSbpE7u_Tk7Ldw1qEkLhTCAjm3orWu9QRdDA5xSQWI_02M3fuFmhkyuNuEO_PdYRG4JBYRb_NtbSxNiXuiQ_U2Ncyv_Qc6GF9PCRh5nc2s1tRsCegy_Vspk3dmtxNcqJml-7CABvIrxsN8pYPzPVC4mSdFHbZFcR4SpnAVvFGFjUm93RJ8srNxokZgufWHuG7J11PTWGakVNnQeOKF-g-yBu1Cmm7-7k-WouWX-hezcG2KfwAKfqZjs00Bfw5wAAj6ab5e71I0DQQMhZFhVTCJwAGijU8v7qDqfK-jamYs6lTSgaBK51b5aZIa0UhXoIuBkSxe9mSJY30X7ijVApca5_wtMaReSTadncetZDukPBwfg2P1KC0Sw_YOz9axWwk-ttKYw6zA-Us4UWJOZacQkJqTV4kpfZMDdbUHczpmwKSBIpn0A4WFEoLfgRwQPlMr0Uq5Klda7UvEWPImfwGZfiVQunNnel-DSGI9X2o_fd4WMXfVScyXWXt_vcr0_aaZROn79UEAi83qNtT4uw4CtB",
+                "width": 4000
+            }
+        ],
+        "place_id": "ChIJuyl-JYWZyzsRMFoRZVeFhEQ",
+        "rating": 4.3,
+        "reference": "ChIJuyl-JYWZyzsRMFoRZVeFhEQ",
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 372
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Shop1, opp. Aswin Curry Point, Ameerpet, Yella Reddy Guda, Hyderabad, Telangana 500073, India",
+        "geometry": {
+            "location": {
+                "lat": 17.4316167,
+                "lng": 78.4428519
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 17.43295522989272,
+                    "lng": 78.44420647989273
+                },
+                "southwest": {
+                    "lat": 17.43025557010728,
+                    "lng": 78.44150682010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+        "name": "CHAI CLUB",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 12000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114527721960880725948\">Madhav Chalamala</a>"
+                ],
+                "photo_reference": "ATKogpevdELbALioUedFN0Q4gOegO-B4svsVf1TnrfQwgEYsJMWQZWPSGXiOxllSuHuZftvkDMoTYyRl9X03orS3Or0HYESpwJW74VMSlJri8KaW8UFbDmbdFnE5i5h-eMdZQoIGJLqRUKHzQdMxlIhCcRDvFf7HNv-F0EPrXemqNn6Q-dDN8JPA12DwN0PbK-y9nXKMdhNadhYdAuALNDFvnKk_q-uE0K3A8nISUQfXMVlr1a3PDzTScuMysn3h0gGW4vIrdUAbWJRlQHI1qe94tizm6tzmLP5L0LlxodO7kq4VzPJ2MGMBDm35rQrP0xicg1CLWJL3MROrNBAVG5lnEVWRLV3Tf58mY7PI6MeBkFpPcnmORJ5jCejEB-eKzF0b15hKKcWa7WTrudfQJUMps_aBRRYMEGnQycEm3FekZ_FkDdXOpZqI9acHk0b4XgPqdVihhDDwKGifVXa_Gj7L2I718GwmyPLqWTLD2CWEFwRiVcbKgGhAQCgmorkew1F-piPVdKOYB_rUZzQIl4Cuk_C0NvwLOrs1vqwKjwkCI2FsYpW8Te6bUkarcjbs0t6DM3M3LxuawVjTPQ",
+                "width": 9000
+            }
+        ],
+        "place_id": "ChIJo5HITimRyzsRDR1nhjruPAA",
+        "plus_code": {
+            "compound_code": "CCJV+J4 Hyderabad, Telangana, India",
+            "global_code": "7J9WCCJV+J4"
+        },
+        "rating": 4.2,
+        "reference": "ChIJo5HITimRyzsRDR1nhjruPAA",
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 156
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "NTR Marg, Central Secretariat, Khairtabad, Hyderabad, Telangana 500004, India",
+        "geometry": {
+            "location": {
+                "lat": 17.4119921,
+                "lng": 78.4710686
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 17.41335032989272,
+                    "lng": 78.47246467989272
+                },
+                "southwest": {
+                    "lat": 17.41065067010728,
+                    "lng": 78.46976502010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+        "name": "Chai Miya",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 724,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111458807502299092429\">Chai Miya</a>"
+                ],
+                "photo_reference": "ATKogpdajoM2RWJudfIDuIXPXuERunMzl0d8oW5teW5GAuTln-0zuAJk1saVvCi0B-irSwr07ygxE86yhVAQvp6-6TAh47kA3FWmudZpaeCwqImcKM5ZwDgRHGbc1ErhCHEt80ukb0kUq3z4v0-kUyGqpCBfaneUDo1umRoCJYDregNC-XWpP0Sw0SfOU5PcJtTkTF8B5JCBLumTE9xfamLLJjjFthxQGGD8rC81xbCfqTWqGcUL5tdt9kCNdcU83jpOC6h3i1kZyfG8ZRL0MvQUza7BNQaJinctQ1VukNxm425I9Wy4Qwo",
+                "width": 1125
+            }
+        ],
+        "place_id": "ChIJxcQ1WxiXyzsRLrVnLGbvQ9c",
+        "plus_code": {
+            "compound_code": "CF6C+QC Hyderabad, Telangana, India",
+            "global_code": "7J9WCF6C+QC"
+        },
+        "rating": 4.6,
+        "reference": "ChIJxcQ1WxiXyzsRLrVnLGbvQ9c",
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 23
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "11-3-913/9, Jama-E-Masjid, Mallepally, Hyderabad, Telangana 500001, India",
+        "geometry": {
+            "location": {
+                "lat": 17.3919064,
+                "lng": 78.4577226
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 17.39323327989272,
+                    "lng": 78.45901637989272
+                },
+                "southwest": {
+                    "lat": 17.39053362010727,
+                    "lng": 78.45631672010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name": "Hyderabadi Irani Tea chai (Tea Powder)",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/104435897943409800308\">A Google User</a>"
+                ],
+                "photo_reference": "ATKogpez4cxMBmF1njJi5JKPr56Ozh7bAFXmP_e4rZYuuSM3Nq6S2sGp1MbUB_Np6G4GIVRxhBDd2nGI4g6peX9cdB6M4-EsBIYITa-tmblwwu9QJAlZMV_8sYnL0O0N0dl-lAvliGcqWQd9hj_uXgwP-EWCckOORjm6lQTPr2NKfToT39WtCXUzkbgfoelbNLe-seardvQPhi6hZgs1J6Fzm2iGClRmrOSW4DOE70hteLZEaGGamlsyd6WqUZPwRwsBX9_7dAVG0eF6yzTyXiAp85BVlO7DDt-BCCh49_b7tt-L7mg26HZv4KEu5meMklGlqmC4pLQuG-3tvN4vAJl4NoaYjSXeBwUmOvGMX4cQO147uQUOqEECWnWrqu85Taf6T14W--YWgqK8bb_lEvejLoRQ4dwdtYqfcBPvHg7UAPmeHy5aj7_W7yUOTt0v-GAm9TV8Ij1seLp5WJsoZSxochpVUuAB00Amblc1qV0xxxZH6Xirwct3rWwOhLfI6kqk5_N3yTxR42kpwO2mkQ-pSNwDV_iTF8o4mWYjohCW5vRPl7c9QLOx92iTQOXzjV8M6YIMWQ",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJyzf-56mXyzsRr-dxMaA6K-Y",
+        "plus_code": {
+            "compound_code": "9FR5+Q3 Hyderabad, Telangana, India",
+            "global_code": "7J9W9FR5+Q3"
+        },
+        "rating": 4.9,
+        "reference": "ChIJyzf-56mXyzsRr-dxMaA6K-Y",
+        "types": [
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 21
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "16.9.408/31/A, Wahed Nagar, Malakpet, wahatnagar, Hyderabad, Telangana 500036, India",
+        "geometry": {
+            "location": {
+                "lat": 17.3851627,
+                "lng": 78.50571269999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 17.38654422989272,
+                    "lng": 78.50706482989271
+                },
+                "southwest": {
+                    "lat": 17.38384457010728,
+                    "lng": 78.50436517010726
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+        "name": "Chai.com",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1080,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112682120970348831212\">A Google User</a>"
+                ],
+                "photo_reference": "ATKogpcQl40DIZs6TV0h7lWZxSBDKeIAEzaqE7EHyD0fuaI0aSV5J8L0qT9v9BV_H-JMyoxEa5dFv1kBaZz2L_aZQh2INYkx1FV9vP2NWNUEgPXu6JbY5kghh4Q68G_-xpZQGoWJW6PUGfGwNvnsXQa1I3jm7WH2FuyTtPi91RNSiTJ-hLqllXraTUsLwvqBpG0Tu-0Pi5Yjuxy6IEElGLOYcj0TCzapn_twW2TUcVaL4cjQXUbRa3BM5ZiAMLmYQSVHbJZKKdAfTKQjnOPwKflTEQ4OnTtHJQQUMhT8bHwBH5OCEmTZO3M",
+                "width": 1920
+            }
+        ],
+        "place_id": "ChIJz8CDI7KZyzsRykVIHTVpKGc",
+        "plus_code": {
+            "compound_code": "9GP4+37 Malakpet, Hyderabad, Telangana, India",
+            "global_code": "7J9W9GP4+37"
+        },
+        "price_level": 1,
+        "rating": 4.1,
+        "reference": "ChIJz8CDI7KZyzsRykVIHTVpKGc",
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 489
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Door No 6-3-864/C1 Greenlands Road, 6, Saadath Manzil Colony Rd, opposite Hotel Green Park, adjoining Mallik Wines, Greenlands, Ameerpet, Hyderabad, Telangana 500016, India",
+        "geometry": {
+            "location": {
+                "lat": 17.4357836,
+                "lng": 78.4535606
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 17.43715027989272,
+                    "lng": 78.45485452989271
+                },
+                "southwest": {
+                    "lat": 17.43445062010728,
+                    "lng": 78.45215487010726
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+        "name": "The chai kettle",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4640,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/118015544414770700509\">srinivas bestha</a>"
+                ],
+                "photo_reference": "ATKogpdgI-bCI5fcdXHubYjeRYeWL-CL05u6mRtO8TeYKgUdM61WiIuZU_iaO-9LlhUPIkCj4eRm_AlEnxtmhMbWXhXkMP4Xw7b9FuFCDkQlpaIP4a5wz6YJ-MpHtAh9cx8SoP2oXmGxc1ORfbZIG4hjjncMCXCfMi9sBtNWebPy6oQ1raTlu9rZqHH2vOyfbV_9_SlIEJlMS_EKrFVZNjJGvvUxK2rZ_f64eY_Z6-S9x2VpD4fKP__LWIaDxvcpCSXHsE488Qw04FrRffqVnk7sr0WzkpQelemO6tenhTMHSM8jmVIDufQIsoip6C598p4cipKsljsGZZLTuAMeljYtrlTFxXoJ_rmLHoZmafnB6y2-zKGOxzhJZ74BAh0DBk9ExfLYJyIQVT_8aasbCXl_1TG-yfIWuIVWvopBOTl2SeV8dc8FO2NGADxPVE7DOtkAeJAKnXBAHX22_F-S4zZGayOso5g74vMdLMMjsJolFXophqEXzGyVR0TpvSbSzz3Z_j0SxooyIyTLHYn620y-NkUa4bvSVkxHj1mhKrEm0Zup0UP_Rt12xKPdATZZ3Hy4ox9eUbq5vXrrVQ",
+                "width": 3472
+            }
+        ],
+        "place_id": "ChIJYStwr9CRyzsR2OkeU5tmuNA",
+        "plus_code": {
+            "compound_code": "CFP3+8C Hyderabad, Telangana, India",
+            "global_code": "7J9WCFP3+8C"
+        },
+        "rating": 4.4,
+        "reference": "ChIJYStwr9CRyzsR2OkeU5tmuNA",
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 90
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "23-6-773, Hari Bowli Rd, Hari Bowli, Hyderabad, Telangana 500065, India",
+        "geometry": {
+            "location": {
+                "lat": 17.3509615,
+                "lng": 78.4756099
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 17.35232202989273,
+                    "lng": 78.47692637989272
+                },
+                "southwest": {
+                    "lat": 17.34962237010728,
+                    "lng": 78.47422672010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+        "name": "Chai hub oldcity",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2256,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109534588140808691286\">Vishnu Theertha</a>"
+                ],
+                "photo_reference": "ATKogpeFvpe54aPIXRNl21P5IOa0rJWbz90zcBFwa0XpGqCqvK5XPgirmgt_QR10pBBWGKpE4xhRR2dKxL9kpK1XRMsObATdw5Rc2MamsSEMQhqB2YAyipi0jMZRvZkls02YDrQcDsgXYngJqUJhipT1KoWCgAT6yP-OdUArswQceAUvXgK0qjpIJy894egZ_jPCrZlATFp8pAUqzSxIHMe39sSf0ZXXEruKQW3Nkn1O2ULAFEdjTskbhq3iVoAm2r1_a7N2dUuHrITyC5ecY-LfWsGR9Q6QETlUc4fvPwknqjEgqCZbaYoGZyM6dg4hWBQMFWZnPufYkIMefhftdXyIgLb9sIR7CbcY_KrBymF4tKoKlYWWFnY7g_oblq8pu63_nHjkPNIBBCub2sxGkQNeZ9omlx6CX5U-FDclv9j__okbeVJg45TkGYwxF8jYY4Tpn2WFZGYJvzwUx-h5ejol01GDJZtGcbxHT43uCmXw2zQdPx2nAHpp4dEKfqdHj-ykC8LQ8PxtEPILEZN4XIKniDWeCm6-bse_5ckSSFZjJ_t2fbX-_-XCcLDN3gXBcfJov55QVClD7gMdmQ",
+                "width": 4000
+            }
+        ],
+        "place_id": "ChIJxU8FHT2ZyzsRRoZ3CQT5ZZI",
+        "plus_code": {
+            "compound_code": "9F2G+96 Hyderabad, Telangana, India",
+            "global_code": "7J9W9F2G+96"
+        },
+        "rating": 4.5,
+        "reference": "ChIJxU8FHT2ZyzsRRoZ3CQT5ZZI",
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 25
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "TCS ADIBATLA, Hyderabad, Bongloor, Telangana 501510, India",
+        "geometry": {
+            "location": {
+                "lat": 17.2337771,
+                "lng": 78.5654696
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 17.23511282989272,
+                    "lng": 78.56681507989273
+                },
+                "southwest": {
+                    "lat": 17.23241317010728,
+                    "lng": 78.56411542010729
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+        "name": "Telangana Chai",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1440,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/102576333588780109931\">Srikanth Manoj</a>"
+                ],
+                "photo_reference": "ATKogpcofmzDOilzFcaxK1Ia7mVNR34ngxYHTbCFybQFL9JHb99cT0nHSkx_TjZWXDP2Jl4YKl8sNeRvPGDhsTrpJQt5FbDy666d59YMnx0MM0rUzXUq_z0cqenBjoLT2Is8MPZkr34cfaRIZyN4jq9IfH8ouzk1vUiImH6l0w919noNGP0W6k_yJ2_8vKjcw2Eo7cqEkVeNZpwmgCmz0NnPYuFiaN8rWK3SZ7kbF0r0sg0B0U_PPfotEuy4AEaHC_nC5J6kze3Khj8nBlHYli1ogkK2Zd8E3vg5mRrO1hB1-M7CbPOYlBAnI-eBkJYymdBjur05zDn8SrKAHbtCFTiyOVx7BuVrbEoNBi3f3JRy-LJkt45h42-yF8J8PzKmZCkNvg8-jjW4IaRJpukbLyyX0xNRFB7Nl3F-_cSzbRQDLVJBlWFQRCp4sUgukMYeHKhBwEKsOJ4eTUZZcjtWvO8H3nQhISGI7E_BdCUrCnIalbbkCzBOv-hjsUwbuQ2f6lauyCsD5tRrDG51_L2bNq4AWfRnwL9R3UrQSaIC2-YUedxfHnLzv-DwV9CqQC7BBbLTTMuln3_6",
+                "width": 1440
+            }
+        ],
+        "place_id": "ChIJy56m7G6lyzsRUFUnVSXmYYk",
+        "plus_code": {
+            "compound_code": "6HM8+G5 Hyderabad, Telangana, India",
+            "global_code": "7J9W6HM8+G5"
+        },
+        "rating": 4.3,
+        "reference": "ChIJy56m7G6lyzsRUFUnVSXmYYk",
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 376
+    }
+]
